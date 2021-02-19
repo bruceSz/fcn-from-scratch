@@ -4,16 +4,16 @@ MODEL:
 
   BACKBONE:
     PRETRAINED: True
-    WEIGHT: '/mnt/truenas/scratch/xingyu.liao/model_zoo/vgg16-397923af.pth'
+    WEIGHT: '/home/rick/Work/model_zoo/vgg16-397923af.pth'
 
   REFINEMENT:
     NAME: ''
 
 DATASETS:
-  ROOT: '/mnt/truenas/scratch/xingyu.liao/DATA/VOCdevkit/VOC2012'
+  ROOT: '/home/rick/Work/dataset/voc/VOCdevkit/VOC2012/'
 
 SOLVER:
-  MAX_EPOCHS: 13
+  MAX_EPOCHS: 13  
   CHECKPOINT_PERIOD: 13
 
-OUTPUT_DIR: "/mnt/truenas/scratch/xingyu.liao/checkpoints/train_fcn32s"
+OUTPUT_DIR: "/home/rick/Work/git/dl/fcn-scratch/checkpoints"

@@ -1,0 +1,7 @@
+yacs
+torch
+pillow
+torchvision
+ignite
+pytorch-ignite
+tensorboardX

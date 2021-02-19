@@ -17,6 +17,7 @@ class FCN32s(nn.Module):
         self.backbone = build_backbone(cfg)
         num_classes = cfg.MODEL.NUM_CLASSES
 
+        #TODO : to be continue, why fc here use the conv_layer?
         self.fc1 = conv_layer(512, 4096, 7)
         self.relu1 = nn.ReLU(inplace=True)
         self.drop1 = nn.Dropout2d()
