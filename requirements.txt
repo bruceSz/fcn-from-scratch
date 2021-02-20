@@ -1,7 +1,7 @@
 yacs
-torch
+torch == 1.2.0
 pillow
 torchvision
 ignite
-pytorch-ignite
+pytorch-ignite== 0.1.2
 tensorboardX

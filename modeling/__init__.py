@@ -18,6 +18,7 @@ _FCN_META_ARCHITECTURE = {'fcn32s': FCN32s,
 
 def build_fcn_model(cfg):
     meta_arch = _FCN_META_ARCHITECTURE[cfg.MODEL.META_ARCHITECTURE]
+    print("model arch is :",cfg.MODEL.META_ARCHITECTURE )
     model = meta_arch(cfg)
     if cfg.MODEL.BACKBONE.PRETRAINED:
         vgg16 = pretrained_vgg(cfg)
