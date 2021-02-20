@@ -1,0 +1,49 @@
+2021-02-20 18:11:34,959 FCN_Model.train INFO: Start training
+2021-02-20 18:12:57,393 FCN_Model.train INFO: Epoch[1] Iteration[400/1464] Loss: 0.105
+2021-02-20 18:14:23,527 FCN_Model.train INFO: Epoch[1] Iteration[800/1464] Loss: 0.140
+2021-02-20 18:15:49,471 FCN_Model.train INFO: Epoch[1] Iteration[1200/1464] Loss: 0.112
+2021-02-20 18:18:24,001 FCN_Model.train INFO: Training Results - Epoch: 1 Mean IU: 0.777 Avg Loss: 0.101
+2021-02-20 18:20:00,593 FCN_Model.train INFO: Validation Results - Epoch: 1 Mean IU: 0.571 Avg Loss: 0.379
+2021-02-20 18:20:00,599 FCN_Model.train INFO: Epoch 1 done. Time per batch: 311.040[s] Speed: 4.7[samples/s]
+2021-02-20 18:21:27,313 FCN_Model.train INFO: Epoch[2] Iteration[400/1464] Loss: 0.106
+2021-02-20 18:22:54,176 FCN_Model.train INFO: Epoch[2] Iteration[800/1464] Loss: 0.106
+2021-02-20 18:24:21,464 FCN_Model.train INFO: Epoch[2] Iteration[1200/1464] Loss: 0.111
+2021-02-20 18:26:59,126 FCN_Model.train INFO: Training Results - Epoch: 2 Mean IU: 0.810 Avg Loss: 0.084
+2021-02-20 18:28:38,472 FCN_Model.train INFO: Validation Results - Epoch: 2 Mean IU: 0.588 Avg Loss: 0.392
+2021-02-20 18:28:38,473 FCN_Model.train INFO: Epoch 2 done. Time per batch: 317.947[s] Speed: 4.6[samples/s]
+2021-02-20 18:30:06,658 FCN_Model.train INFO: Epoch[3] Iteration[400/1464] Loss: 0.099
+2021-02-20 18:31:34,542 FCN_Model.train INFO: Epoch[3] Iteration[800/1464] Loss: 0.084
+2021-02-20 18:33:02,438 FCN_Model.train INFO: Epoch[3] Iteration[1200/1464] Loss: 0.097
+2021-02-20 18:35:41,356 FCN_Model.train INFO: Training Results - Epoch: 3 Mean IU: 0.793 Avg Loss: 0.083
+2021-02-20 18:37:20,884 FCN_Model.train INFO: Validation Results - Epoch: 3 Mean IU: 0.570 Avg Loss: 0.384
+2021-02-20 18:37:20,886 FCN_Model.train INFO: Epoch 3 done. Time per batch: 321.923[s] Speed: 4.5[samples/s]
+2021-02-20 18:38:49,627 FCN_Model.train INFO: Epoch[4] Iteration[400/1464] Loss: 0.087
+2021-02-20 18:40:17,589 FCN_Model.train INFO: Epoch[4] Iteration[800/1464] Loss: 0.079
+2021-02-20 18:41:45,518 FCN_Model.train INFO: Epoch[4] Iteration[1200/1464] Loss: 0.087
+2021-02-20 18:44:24,508 FCN_Model.train INFO: Training Results - Epoch: 4 Mean IU: 0.816 Avg Loss: 0.073
+2021-02-20 18:46:03,913 FCN_Model.train INFO: Validation Results - Epoch: 4 Mean IU: 0.574 Avg Loss: 0.379
+2021-02-20 18:46:03,915 FCN_Model.train INFO: Epoch 4 done. Time per batch: 322.508[s] Speed: 4.5[samples/s]
+2021-02-20 18:47:31,957 FCN_Model.train INFO: Epoch[5] Iteration[400/1464] Loss: 0.100
+2021-02-20 18:48:59,815 FCN_Model.train INFO: Epoch[5] Iteration[800/1464] Loss: 0.077
+2021-02-20 18:50:28,156 FCN_Model.train INFO: Epoch[5] Iteration[1200/1464] Loss: 0.083
+2021-02-20 18:53:07,288 FCN_Model.train INFO: Training Results - Epoch: 5 Mean IU: 0.813 Avg Loss: 0.074
+2021-02-20 18:54:46,638 FCN_Model.train INFO: Validation Results - Epoch: 5 Mean IU: 0.572 Avg Loss: 0.379
+2021-02-20 18:54:46,640 FCN_Model.train INFO: Epoch 5 done. Time per batch: 322.276[s] Speed: 4.5[samples/s]
+2021-02-20 18:56:14,472 FCN_Model.train INFO: Epoch[6] Iteration[400/1464] Loss: 0.070
+2021-02-20 18:57:42,665 FCN_Model.train INFO: Epoch[6] Iteration[800/1464] Loss: 0.070
+2021-02-20 18:59:10,552 FCN_Model.train INFO: Epoch[6] Iteration[1200/1464] Loss: 0.090
+2021-02-20 19:01:50,072 FCN_Model.train INFO: Training Results - Epoch: 6 Mean IU: 0.824 Avg Loss: 0.067
+2021-02-20 19:03:29,449 FCN_Model.train INFO: Validation Results - Epoch: 6 Mean IU: 0.570 Avg Loss: 0.408
+2021-02-20 19:03:29,452 FCN_Model.train INFO: Epoch 6 done. Time per batch: 322.215[s] Speed: 4.5[samples/s]
+2021-02-20 19:04:58,360 FCN_Model.train INFO: Epoch[7] Iteration[400/1464] Loss: 0.075
+2021-02-20 19:06:26,732 FCN_Model.train INFO: Epoch[7] Iteration[800/1464] Loss: 0.081
+2021-02-20 19:07:54,851 FCN_Model.train INFO: Epoch[7] Iteration[1200/1464] Loss: 0.080
+2021-02-20 19:10:33,664 FCN_Model.train INFO: Training Results - Epoch: 7 Mean IU: 0.825 Avg Loss: 0.066
+2021-02-20 19:12:13,594 FCN_Model.train INFO: Validation Results - Epoch: 7 Mean IU: 0.565 Avg Loss: 0.384
+2021-02-20 19:12:13,596 FCN_Model.train INFO: Epoch 7 done. Time per batch: 323.206[s] Speed: 4.5[samples/s]
+2021-02-20 19:13:42,336 FCN_Model.train INFO: Epoch[8] Iteration[400/1464] Loss: 0.071
+2021-02-20 19:15:10,435 FCN_Model.train INFO: Epoch[8] Iteration[800/1464] Loss: 0.072
+2021-02-20 19:16:38,301 FCN_Model.train INFO: Epoch[8] Iteration[1200/1464] Loss: 0.068
+2021-02-20 19:19:17,986 FCN_Model.train INFO: Training Results - Epoch: 8 Mean IU: 0.840 Avg Loss: 0.059
+2021-02-20 19:20:57,506 FCN_Model.train INFO: Validation Results - Epoch: 8 Mean IU: 0.579 Avg Loss: 0.415
+2021-02-20 19:20:57,508 FCN_Model.train INFO: Epoch 8 done. Time per batch: 322.749[s] Speed: 4.5[samples/s]

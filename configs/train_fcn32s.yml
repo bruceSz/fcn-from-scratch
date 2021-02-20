@@ -16,4 +16,4 @@ SOLVER:
   MAX_EPOCHS: 13  
   CHECKPOINT_PERIOD: 13
 
-OUTPUT_DIR: "/home/rick/Work/git/dl/fcn-scratch/checkpoints"
+OUTPUT_DIR: "/home/rick/Work/git/dl/fcn-scratch/checkpoints/train_fcn32s"

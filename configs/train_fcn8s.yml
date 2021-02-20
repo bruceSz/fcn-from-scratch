@@ -7,13 +7,13 @@ MODEL:
 
   REFINEMENT:
     NAME: 'fcn16s'
-    WEIGHT: "/mnt/truenas/scratch/xingyu.liao/checkpoints/train_fcn16s/fcn_model_8.pth"
+    WEIGHT: "/home/rick/Work/git/dl/fcn-scratch/checkpoints/train_fcn16s/fcn_model_8.pth"
 
 DATASETS:
-  ROOT: '/mnt/truenas/scratch/xingyu.liao/DATA/VOCdevkit/VOC2012'
+  ROOT: '/home/rick/Work/dataset/voc/VOCdevkit/VOC2012/'
 
 SOLVER:
   MAX_EPOCHS: 7
   CHECKPOINT_PERIOD: 7
 
-OUTPUT_DIR: "/mnt/truenas/scratch/xingyu.liao/checkpoints/train_fcn8s"
+OUTPUT_DIR: "/home/rick/Work/git/dl/fcn-scratch/checkpoints/train_fcn8s"
