@@ -13,7 +13,7 @@ DATASETS:
   ROOT: '/home/rick/Work/dataset/voc/VOCdevkit/VOC2012/'
 
 SOLVER:
-  MAX_EPOCHS: 7
-  CHECKPOINT_PERIOD: 7
+  MAX_EPOCHS: 50
+  CHECKPOINT_PERIOD: 15
 
 OUTPUT_DIR: "/home/rick/Work/git/dl/fcn-scratch/checkpoints/train_fcn8s"
